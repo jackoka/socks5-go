@@ -10,7 +10,9 @@
 
 ### #打包
 
-###### go build ./src/main/socks5.go
+```
+go build ./src/main/socks5.go
+```
 
 
 
