@@ -29,7 +29,7 @@ go build ./src/main/socks5.go
   指定端口号:
 
   ```
-  ./socks5 port=8888
+  ./socks5 port=50000
   ```
 
   
@@ -57,7 +57,7 @@ go build ./src/main/socks5.go
   指定端口号运行:
 
   ```
-  socks5.exe port=8888
+  socks5.exe port=50000
   ```
 
 
