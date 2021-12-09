@@ -60,4 +60,22 @@ go build ./src/main/socks5.go
   socks5.exe port=8888
   ```
 
-  
+
+
+
+
+
+
+
+# client
+
+### 谷歌浏览器安装 SwitchyOmega 插件
+
+![image-20211209134929304](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211209134929304.png)
+
+代理协议：socks5
+
+代理服务器：代理服务器外网ip地址
+
+代理端口：上面程序启动用的端口，默认 50000
+
