@@ -20,11 +20,17 @@
 
   授权:
 
-  ###### chmod +x main
+  ```
+  chmod +x main
+  ```
 
   指定端口号:
 
-  ###### ./main port=8888
+  ```
+  ./main port=8888
+  ```
+
+  
 
 
 
@@ -38,4 +44,8 @@
 
   指定端口号运行:
 
-  ###### main.exe port=8888
+  ```
+  main.exe port=8888
+  ```
+
+  
