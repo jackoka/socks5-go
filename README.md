@@ -16,6 +16,24 @@ go build ./src/main/socks5.go
 
 
 
+
+
+#使用现有执行文件
+
+```
+git clone https://github.com/jackoka/socks5-go.git 
+
+git checkout prod
+
+cd out
+
+chmod +x socks5
+
+./socks5 port=50000
+```
+
+
+
 ## #运行
 
 - ##### linux
