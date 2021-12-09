@@ -71,7 +71,7 @@ go build ./src/main/socks5.go
 
 ### 谷歌浏览器安装 SwitchyOmega 插件
 
-![image-20211209134929304](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20211209134929304.png)
+![image-20211209134929304](./image/img.png)
 
 代理协议：socks5
 
