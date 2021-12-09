@@ -23,31 +23,41 @@ go build ./src/main/socks5.go
   授权:
 
   ```
-  chmod +x main
+  chmod +x socks5
   ```
 
   指定端口号:
 
   ```
-  ./main port=8888
+  ./socks5 port=8888
   ```
 
   
-
-
+  
+  
+  
+  后台运行:
+  
+  ```
+  #不保存日志
+  nohup ./socks5 >/dev/null 2>&1 &
+  
+  #保存日志
+  nohup ./socks5 >./socks5.log  &
+  ```
 
 
 
 - windows
 
-  ###### 双击 main.exe
+  ###### 双击 socks5.exe
 
   
 
   指定端口号运行:
 
   ```
-  main.exe port=8888
+  socks5.exe port=8888
   ```
 
   
